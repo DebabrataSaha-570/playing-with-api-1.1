@@ -1,1 +1,1 @@
-# playing-with-api-1.1
+## API = https://jsonplaceholder.typicode.com/posts/
